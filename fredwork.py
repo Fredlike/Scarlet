@@ -40,6 +40,7 @@ def ask():
 def main():
     clear_screen()
     display_ascii_text()
+    ask()
 
     
 
